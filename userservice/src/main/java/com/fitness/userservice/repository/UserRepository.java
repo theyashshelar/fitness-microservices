@@ -1,4 +1,4 @@
-package com.fitness.userservice;
+package com.fitness.userservice.repository;
 
 import com.fitness.userservice.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;

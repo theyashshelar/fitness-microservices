@@ -1,6 +1,6 @@
 package com.fitness.userservice.services;
 
-import com.fitness.userservice.UserRepository;
+import com.fitness.userservice.repository.UserRepository;
 import com.fitness.userservice.dto.RegisterRequest;
 import com.fitness.userservice.dto.UserResponse;
 import com.fitness.userservice.models.User;
