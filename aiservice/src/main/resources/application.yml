@@ -16,6 +16,12 @@ spring:
         spring.json.value.default.type: com.fitness.aiservice.model.Activity
         spring.json.trusted.packages: "*"
 
+
+gemini:
+  api:
+    url: ${GEMINI_URL}
+    key: ${GEMINI_KEY}
+
 Kafka:
   topic:
     name: activity-events
