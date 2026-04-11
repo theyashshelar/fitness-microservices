@@ -193,7 +193,6 @@
     <configuration name="AiserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <envs>
         <env name="GEMINI_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent" />
-        <env name="GEMINI_KEY" value="AIzaSyA9VAWsEQsVGzwuRyaoe7cPVJZ-yOBNVLo" />
       </envs>
       <module name="aiservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.aiservice.AiserviceApplication" />
