@@ -1,0 +1,232 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"384ed69a-ce3d-4d35-a2d0-89afa26c3f10\" name=\"Changes\" comment=\"Added microservices: user, activity, ai services with Eureka integration\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/jarRepositories.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/config/WebClientConfig.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/ActivityAiService.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/aiservice/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aiservice/pom.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Activity.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Activity.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/ActivityType.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/ActivityMessageListener.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/ActivityMessageListener.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/GeminiService.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/GeminiService.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/aiservice/src/main/resources/application.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/aiservice/src/main/resources/application.yml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/eureka/src/main/resources/application.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/eureka/src/main/resources/application.yml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$/userservice\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand />\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Enum\" />\n        <option value=\"Interface\" />\n        <option value=\"JUnit5 Test Class\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;theyashshelar&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/theyashshelar/fitness-microservices.git&quot;,\n    &quot;accountId&quot;: &quot;e6c07082-434f-48b5-b7a4-18ec5734d10c&quot;\n  }\n}</component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/GeminiService.java\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"KubernetesApiPersistence\">{}</component>\n  <component name=\"KubernetesApiProvider\">{\n  &quot;isMigrated&quot;: true\n}</component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"mavenHomeTypeForPersistence\" value=\"WRAPPER\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"McpProjectServerCommands\">\n    <commands />\n    <urls />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 0\n}</component>\n  <component name=\"ProjectId\" id=\"3BvZNyFu6Mu13KrBdOYcCuRkPxq\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,\n    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,\n    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,\n    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,\n    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;Spring Boot.ActivityserviceApplication.executor&quot;: &quot;Run&quot;,\n    &quot;Spring Boot.AiserviceApplication.executor&quot;: &quot;Run&quot;,\n    &quot;Spring Boot.EurekaApplication.executor&quot;: &quot;Run&quot;,\n    &quot;Spring Boot.UserserviceApplication.executor&quot;: &quot;Run&quot;,\n    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,\n    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,\n    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/yash/Desktop/Projects/fitness-microservices/aiservice/src/main/java/com/fitness/aiservice/model&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\n    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,\n    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,\n    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,\n    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"com.fitness.userservice.dto\" />\n      <recent name=\"com.fitness.activityservice.model\" />\n      <recent name=\"com.fitness.userservice.models\" />\n    </key>\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model\" />\n    </key>\n    <key name=\"CreateTestDialog.Recents.Supers\">\n      <recent name=\"\" />\n    </key>\n    <key name=\"CreateTestDialog.RecentsKey\">\n      <recent name=\"com.fitness.activityservice.services\" />\n    </key>\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"com.fitness.aiservice.model\" />\n    </key>\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"configurationTypes\">\n      <set>\n        <option value=\"KtorApplicationConfigurationType\" />\n        <option value=\"MicronautRunConfigurationType\" />\n        <option value=\"QuarkusRunConfigurationType\" />\n        <option value=\"SpringBootApplicationConfigurationType\" />\n      </set>\n    </option>\n    <option name=\"configurationStatuses\">\n      <map>\n        <entry key=\"SpringBootApplicationConfigurationType\">\n          <value>\n            <map>\n              <entry key=\"ActivityserviceApplication\" value=\"STOPPED\" />\n              <entry key=\"AiserviceApplication\" value=\"STOPPED\" />\n              <entry key=\"EurekaApplication\" value=\"STOPPED\" />\n              <entry key=\"UserserviceApplication\" value=\"STOPPED\" />\n            </map>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Compound.AllServices\">\n    <configuration name=\"AllServices\" type=\"CompoundRunConfigurationType\">\n      <toRun name=\"ActivityserviceApplication\" type=\"SpringBootApplicationConfigurationType\" />\n      <toRun name=\"AiserviceApplication\" type=\"SpringBootApplicationConfigurationType\" />\n      <toRun name=\"EurekaApplication\" type=\"SpringBootApplicationConfigurationType\" />\n      <toRun name=\"UserserviceApplication\" type=\"SpringBootApplicationConfigurationType\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"ActivityserviceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"activityservice\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.fitness.activityservice.ActivityserviceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"AiserviceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <envs>\n        <env name=\"GEMINI_URL\" value=\"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent\" />\n        <env name=\"GEMINI_KEY\" value=\"AIzaSyA9VAWsEQsVGzwuRyaoe7cPVJZ-yOBNVLo\" />\n      </envs>\n      <module name=\"aiservice\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.fitness.aiservice.AiserviceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"EurekaApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"eureka\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.fitness.eureka.EurekaApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"UserserviceApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"userservice\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.fitness.userservice.UserserviceApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <list>\n      <item itemvalue=\"Compound.AllServices\" />\n      <item itemvalue=\"Spring Boot.AiserviceApplication\" />\n      <item itemvalue=\"Spring Boot.EurekaApplication\" />\n      <item itemvalue=\"Spring Boot.ActivityserviceApplication\" />\n      <item itemvalue=\"Spring Boot.UserserviceApplication\" />\n    </list>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90\" />\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"384ed69a-ce3d-4d35-a2d0-89afa26c3f10\" name=\"Changes\" comment=\"\" />\n      <created>1775371468387</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1775371468387</updated>\n      <workItem from=\"1775371469513\" duration=\"1559000\" />\n      <workItem from=\"1775373758485\" duration=\"171000\" />\n      <workItem from=\"1775374051880\" duration=\"5365000\" />\n      <workItem from=\"1775399562567\" duration=\"78000\" />\n      <workItem from=\"1775399779340\" duration=\"7525000\" />\n      <workItem from=\"1775411753080\" duration=\"11243000\" />\n      <workItem from=\"1775496232521\" duration=\"4763000\" />\n      <workItem from=\"1775539650929\" duration=\"25202000\" />\n      <workItem from=\"1775726448032\" duration=\"9721000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"feat(userservice): implement user registration flow with controller, service, repository, and DTOs\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1775399250827</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1775399250827</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Add activity service with MongoDB integration and improve user service&#10;&#10;- Implement Activity microservice (controller, service, repository)&#10;- Configure MongoDB connection&#10;- Add Activity DTOs and enums&#10;- Refactor user service components\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1775411961560</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1775411961560</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Added microservices: user, activity, ai services with Eureka integration\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1775669902229</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1775669902229</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"feat(userservice): implement user registration flow with controller, service, repository, and DTOs\" />\n    <MESSAGE value=\"Add activity service with MongoDB integration and improve user service&#10;&#10;- Implement Activity microservice (controller, service, repository)&#10;- Configure MongoDB connection&#10;- Add Activity DTOs and enums&#10;- Refactor user service components\" />\n    <MESSAGE value=\"Added microservices: user, activity, ai services with Eureka integration\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Added microservices: user, activity, ai services with Eureka integration\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e316ce3f3e3dd247fe775a1d3fc215fdea09398d)
++++ b/.idea/workspace.xml	(date 1775935057302)
+@@ -4,19 +4,23 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="384ed69a-ce3d-4d35-a2d0-89afa26c3f10" name="Changes" comment="Added microservices: user, activity, ai services with Eureka integration">
+-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/config/WebClientConfig.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/ActivityAiService.java" afterDir="false" />
++    <list default="true" id="384ed69a-ce3d-4d35-a2d0-89afa26c3f10" name="Changes" comment="Added AI recommendation service with Gemini integration, Kafka consumer, and parsing logic">
++      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/activity-service.yml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/ai-service.yml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/gateway-service.yml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/config/user-service.yml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/activityservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/config/WebClientConfig.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/services/UserValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/java/com/fitness/activityservice/services/UserValidationService.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/activityservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/activityservice/src/main/resources/application.yml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/aiservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Activity.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/ActivityType.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model/Recommendation.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/ActivityMessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/ActivityMessageListener.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/GeminiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/service/GeminiService.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/aiservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aiservice/src/main/resources/application.yml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/userservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/resources/application.yml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -104,12 +108,15 @@
+     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+     &quot;Spring Boot.ActivityserviceApplication.executor&quot;: &quot;Run&quot;,
+     &quot;Spring Boot.AiserviceApplication.executor&quot;: &quot;Run&quot;,
++    &quot;Spring Boot.ConfigserverApplication.executor&quot;: &quot;Run&quot;,
+     &quot;Spring Boot.EurekaApplication.executor&quot;: &quot;Run&quot;,
++    &quot;Spring Boot.GatewayApplication.executor&quot;: &quot;Run&quot;,
+     &quot;Spring Boot.UserserviceApplication.executor&quot;: &quot;Run&quot;,
+     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+@@ -117,15 +124,15 @@
+     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/Users/yash/Desktop/Projects/fitness-microservices/aiservice/src/main/java/com/fitness/aiservice/model&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/yash/Desktop/Projects/fitness-microservices&quot;,
+     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+     &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+@@ -139,10 +146,14 @@
+       <recent name="com.fitness.userservice.models" />
+     </key>
+     <key name="CopyFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/configserver/src/main/resources/config" />
+       <recent name="$PROJECT_DIR$/aiservice/src/main/java/com/fitness/aiservice/model" />
+     </key>
+     <key name="CreateTestDialog.Recents.Supers">
+       <recent name="" />
++    </key>
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/configserver/src/main/resources" />
+     </key>
+     <key name="CreateTestDialog.RecentsKey">
+       <recent name="com.fitness.activityservice.services" />
+@@ -167,7 +178,9 @@
+             <map>
+               <entry key="ActivityserviceApplication" value="STOPPED" />
+               <entry key="AiserviceApplication" value="STOPPED" />
++              <entry key="ConfigserverApplication" value="STOPPED" />
+               <entry key="EurekaApplication" value="STOPPED" />
++              <entry key="GatewayApplication" value="STOPPED" />
+               <entry key="UserserviceApplication" value="STOPPED" />
+             </map>
+           </value>
+@@ -175,10 +188,11 @@
+       </map>
+     </option>
+   </component>
+-  <component name="RunManager" selected="Compound.AllServices">
++  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+     <configuration name="AllServices" type="CompoundRunConfigurationType">
+       <toRun name="ActivityserviceApplication" type="SpringBootApplicationConfigurationType" />
+       <toRun name="AiserviceApplication" type="SpringBootApplicationConfigurationType" />
++      <toRun name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" />
+       <toRun name="EurekaApplication" type="SpringBootApplicationConfigurationType" />
+       <toRun name="UserserviceApplication" type="SpringBootApplicationConfigurationType" />
+       <method v="2" />
+@@ -193,7 +207,7 @@
+     <configuration name="AiserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+       <envs>
+         <env name="GEMINI_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent" />
+-        <env name="GEMINI_KEY" value="AIzaSyA9VAWsEQsVGzwuRyaoe7cPVJZ-yOBNVLo" />
++        <env name="GEMINI_KEY" value="AIzaSyDqwgqDUkXvCD9xOtN7g3fFlInryiEPGN8" />
+       </envs>
+       <module name="aiservice" />
+       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.aiservice.AiserviceApplication" />
+@@ -201,6 +215,13 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <configuration name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
++      <module name="configserver" />
++      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.configserver.ConfigserverApplication" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+       <module name="eureka" />
+       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.eureka.EurekaApplication" />
+@@ -208,6 +229,13 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
++      <module name="gateway" />
++      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.gateway.GatewayApplication" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="UserserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+       <module name="userservice" />
+       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitness.userservice.UserserviceApplication" />
+@@ -217,6 +245,8 @@
+     </configuration>
+     <list>
+       <item itemvalue="Compound.AllServices" />
++      <item itemvalue="Spring Boot.GatewayApplication" />
++      <item itemvalue="Spring Boot.ConfigserverApplication" />
+       <item itemvalue="Spring Boot.AiserviceApplication" />
+       <item itemvalue="Spring Boot.EurekaApplication" />
+       <item itemvalue="Spring Boot.ActivityserviceApplication" />
+@@ -246,7 +276,17 @@
+       <workItem from="1775411753080" duration="11243000" />
+       <workItem from="1775496232521" duration="4763000" />
+       <workItem from="1775539650929" duration="25202000" />
+-      <workItem from="1775726448032" duration="9721000" />
++      <workItem from="1775726448032" duration="12282000" />
++      <workItem from="1775757155555" duration="91000" />
++      <workItem from="1775806519342" duration="3958000" />
++      <workItem from="1775814632575" duration="40000" />
++      <workItem from="1775911612697" duration="451000" />
++      <workItem from="1775912132208" duration="298000" />
++      <workItem from="1775912448804" duration="4000" />
++      <workItem from="1775912535087" duration="4800000" />
++      <workItem from="1775918126951" duration="43000" />
++      <workItem from="1775918401937" duration="7540000" />
++      <workItem from="1775931867720" duration="3140000" />
+     </task>
+     <task id="LOCAL-00001" summary="feat(userservice): implement user registration flow with controller, service, repository, and DTOs">
+       <option name="closed" value="true" />
+@@ -272,12 +312,37 @@
+       <option name="project" value="LOCAL" />
+       <updated>1775669902229</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Added AI recommendation service with Gemini integration, Kafka consumer, and parsing logic">
++      <option name="closed" value="true" />
++      <created>1775753125080</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1775753125080</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="UnknownFeatures">
++    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
++    <option featureType="dependencySupport" implementationName="java:org.apache.kafka:kafka_2.13" />
++    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
++    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
++    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
++    <option featureType="dependencySupport" implementationName="executable:kubectl" />
++    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
++    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
++    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
++    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
++    <option featureType="dependencySupport" implementationName="executable:docker" />
++    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
++    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
++    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
++    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
++  </component>
+   <component name="Vcs.Log.Tabs.Properties">
+     <option name="TAB_STATES">
+       <map>
+@@ -293,6 +358,7 @@
+     <MESSAGE value="feat(userservice): implement user registration flow with controller, service, repository, and DTOs" />
+     <MESSAGE value="Add activity service with MongoDB integration and improve user service&#10;&#10;- Implement Activity microservice (controller, service, repository)&#10;- Configure MongoDB connection&#10;- Add Activity DTOs and enums&#10;- Refactor user service components" />
+     <MESSAGE value="Added microservices: user, activity, ai services with Eureka integration" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Added microservices: user, activity, ai services with Eureka integration" />
++    <MESSAGE value="Added AI recommendation service with Gemini integration, Kafka consumer, and parsing logic" />
++    <option name="LAST_COMMIT_MESSAGE" value="Added AI recommendation service with Gemini integration, Kafka consumer, and parsing logic" />
+   </component>
+ </project>
+\ No newline at end of file
