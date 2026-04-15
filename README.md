@@ -12,7 +12,7 @@ Fitness AI is a **full-stack microservices application** that allows users to tr
 ### 🔐 Login Page
 ![Login](./screenshots/login.png)
 
-### 📊 Dashboard
+### 📊 Dashboard & 📈 Activity Trends
 ![Dashboard](./screenshots/dashboard.png)
 
 ### 🤖 AI Insights
@@ -54,7 +54,7 @@ User → Activity Service → Kafka → AI Service → Gemini API → Frontend
 ## 🛠️ Tech Stack
 
 ### Backend:
-- Java 17  
+- Java 25  
 - Spring Boot  
 - Spring Cloud (Gateway, Eureka, Config)  
 - Apache Kafka  
